@@ -133,7 +133,7 @@ header ul li a.active
 .sec1 .sec img#shuchonk{
 	position: absolute;
 	left: 40px;
-	bottom: 200px;
+	bottom: 100px;
 	padding: 0px;
 	margin: 0px;
 	width: 400px;
@@ -147,6 +147,7 @@ header ul li a.active
 }
 .sec2{
 	background: #1c0522;
+	text-align: center;
 }
 
 .sec2 .hobby{
@@ -171,20 +172,19 @@ header ul li a.active
 	color: #fff;
 }
 
-.sec2 .hobby img#shuu{
-	position: absolute;
-	right: 30px;
-	padding: 0px;
-	margin: 0px;
-	width: 490px;
-	height: 750px;
-	bottom: 40px;
-	border-radius: 20px;
-}
-
 .sec2 .hobby .chonk{
 	font-size: 1em;
 	font-weight: bold;
 	color: #fff;
 	text-align: right;
+}
+
+.sec2 .hobby .books{
+	font-size: 1.2em;
+	color: #fff;
+}
+
+.sec2 .hobby .art{
+	font-size: 1.2em;
+	color: #fff;
 }

@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title> An Introvert </title>
+		<meta charset = "UTF=8" />
 		<meta name = "viewport" content = "width = device-width, initial-scale = 1">
 		<link rel = "stylesheet" href= "style.css">
 	</head>
@@ -42,13 +43,13 @@
 					I am the eldest daughter, me having a little sister. My mom and dad both work so I stay at home to take care of <br>
 					my little sister and our dog. <br> 
 					I suppose that's it, isn't it?
+					<br> <br>
 					
 			</div>
 		</section>
 		<section class = "sec2">
 			<div class = "hobby" id = "hobby">
 				<h2> Hobbies </h2>
-				<a href = "https://twitter.com/zero15101991/status/1576549170651230210?s=20&t=lJPLB_AOCnwUJUcX1rULPQ"><img src = "shuu.png" id = "shuu"></a>
 				<ul>
 					<li> Games </li>
 						<p class = "games"> 
@@ -58,13 +59,18 @@
 							Legend Of Zelda:BOTW <br> Project Zomboid <br>
 							Cinderella Phenomenon <br> <br>
 							<u><b>Games I'm currently playing</b></u> <br>
-							Genshin Impact<br>
+							Genshin Impact<br> Cookie Run Kingdom <br>
 							Twisted Wonderland <br> Bungou Tales <br> </p> <br> <br>
 					<li> Reading </li>
-					<p class = ""></p>
-					<li>Games</li>
-					<li>Games</li>
-					<li>Games</li>
+					<p class = "books">
+						I adore reading quite a lot!! Though I've forgotten books I've physically read <br>
+						I do have the first three books of the Harry Potter series. <br>
+						I also like reading fanfiction a lot! It's what inspired me to write!</p>
+					<li> Art </li>
+					<p class = "art">
+						I sometimes like to draw! Or watch anything related to art! It's one of the few reasons <br>
+						why I want to go to the National Museum! <br> <br>
+						I think that's all for my hobbies! Thank you! </p>
 				</ul>
 			</div>
 		</section>
